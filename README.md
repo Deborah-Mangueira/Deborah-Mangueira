@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da Computação`**
 
-Me chamo Déborah Mangueira, tenho 21 anos e sou natural de Sergipe. Concluí o ensino médio com o curso técnico em assistente administrativo. Atualmente, estou cursando Ciências da computação na Estácio. Sou apaixonada por tecnologia e tenho como objetivo no futuro me tornar dev fullstack.
+Me chamo Déborah Mangueira, tenho 21 anos e sou natural de Sergipe. Concluí o ensino médio com o curso técnico em assistente administrativo. Atualmente, estou cursando Ciências da computação na Estácio. Sou apaixonada por tecnologia e tenho como objetivo no futuro me tornar desenvolvedora fullstack.
 <p align="left">
     <a href = "mailto:deboramangueira012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     <a href="https://github.com/Deborah-Mangueira?tab=repositories&sort=stargazers">
