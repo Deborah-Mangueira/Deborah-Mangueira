@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da Computação`**
 
-Me chamo Déborah Mangueira, tenho 21 anos e sou natural de Sergipe. Concluí o ensino médio com o curso técnico em assistente administrativo. Atualmente, estou cursando Ciências da computação na Estácio. Sou apaixonada por tecnologia e tenho como objetivo no futuro me tornar desenvolvedora fullstack.
+Me chamo Déborah Mangueira, tenho 22 anos e sou natural de Sergipe. Concluí o ensino médio com o curso técnico em assistente administrativo. Atualmente, estou cursando Ciências da computação na Estácio. Sou apaixonada por tecnologia e tenho como objetivo no futuro me tornar desenvolvedora fullstack.
 <p align="left">
     <a href = "mailto:deboramangueira012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     <a href="https://github.com/Deborah-Mangueira?tab=repositories&sort=stargazers">
@@ -22,7 +22,41 @@ Me chamo Déborah Mangueira, tenho 21 anos e sou natural de Sergipe. Concluí o 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img 
+    align="left" 
+    alt="Html"
+    title="Html" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Css"
+    title="Css" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 
 <br/>
