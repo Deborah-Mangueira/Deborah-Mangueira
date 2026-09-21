@@ -4,6 +4,9 @@
 
 Me chamo Déborah Mangueira, tenho 22 anos e sou natural de Sergipe. Concluí o ensino médio com o curso técnico em assistente administrativo. Atualmente, estou cursando Ciências da computação na Estácio. Sou apaixonada por tecnologia e tenho como objetivo no futuro me tornar desenvolvedora fullstack.
 <p align="left">
+    <a href="https://www.youtube.com/@deborahmangueira020" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/dehmangueira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/xerozza" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href = "mailto:deboramangueira012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     <a href="https://github.com/Deborah-Mangueira?tab=repositories&sort=stargazers">
     <a href="https://www.linkedin.com/in/déborah-mangueira-24689b27a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
